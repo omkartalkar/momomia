@@ -580,6 +580,7 @@ font-size: 21px;
      display: flex; 
      flex-direction: column;
      margin: auto;
+     text-align: center;
 }
 .best_box p {
      color: #fff;
