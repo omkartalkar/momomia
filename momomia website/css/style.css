@@ -576,7 +576,7 @@ font-size: 21px;
      padding-bottom: 2em;
      align-items: center;
 }
-.delivery .onestop , .deliverybox{
+.onestop, .deliverybox{
      display: flex; 
      flex-direction: column;
      margin: auto;
