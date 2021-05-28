@@ -104,6 +104,7 @@
      .text-img h3 {
         display: none;
     }
+
     .main_form {
         padding: 50px 20px 0px 20px;
     }
@@ -121,6 +122,9 @@
         height: auto;
         border-radius: inherit;
         padding: 40px 20px 40px 50px;
+    }
+    .delivery .sign_btn{
+        font-size:1em;
     }
     .navigation.navbar {
         float: right;
