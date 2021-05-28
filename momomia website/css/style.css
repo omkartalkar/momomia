@@ -592,6 +592,7 @@ font-size: 21px;
      text-align: center;
      font-size: 2em;
      box-shadow: .2em .2em black;
+     z-index: 999;
 }
 .best_box p {
      color: #fff;
