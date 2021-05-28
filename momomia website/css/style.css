@@ -582,6 +582,16 @@ font-size: 21px;
      margin: auto;
      text-align: center;
 }
+.floating{
+     width: 2em;
+     position: fixed;
+     right:1em;
+     bottom:1em;
+     background-color: #8c74af;
+     border-radius: 3px;
+     text-align: center;
+     font-size: 2em;
+}
 .best_box p {
      color: #fff;
      font-size: 17px;
