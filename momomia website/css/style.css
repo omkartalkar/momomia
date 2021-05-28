@@ -574,6 +574,7 @@ font-size: 21px;
      display: flex;
      justify-content: space-evenly;
      padding-bottom: 2em;
+     align-items: center;
 }
 .best_box p {
      color: #fff;
