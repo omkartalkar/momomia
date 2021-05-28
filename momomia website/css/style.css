@@ -591,6 +591,7 @@ font-size: 21px;
      border-radius: 3px;
      text-align: center;
      font-size: 2em;
+     box-shadow: .2em .2em black;
 }
 .best_box p {
      color: #fff;
