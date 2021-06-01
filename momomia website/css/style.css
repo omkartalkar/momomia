@@ -587,12 +587,13 @@ font-size: 21px;
      position: fixed;
      right:1em;
      bottom:1em;
-     background-color: #8c74af;
+     background-color: #5f566e;
      border-radius: 3px;
      text-align: center;
      font-size: 2em;
      box-shadow: .2em .2em black;
      z-index: 999;
+     
 }
 .best_box p {
      color: #fff;
